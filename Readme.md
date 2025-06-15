@@ -1,1 +1,1 @@
-this is a sample repo to learn the working of github
+# This is a sample repo to learn the working of github
